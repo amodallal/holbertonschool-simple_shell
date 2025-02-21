@@ -1,0 +1,31 @@
+---
+
+## **📌 `man_1_simple_shell` (Manual Page)**
+```man
+.TH SIMPLE_SHELL 1 "February 2025" "Simple Shell" "User Commands"
+
+.SH NAME
+simple_shell \- A simple UNIX command interpreter
+
+.SH SYNOPSIS
+.B simple_shell
+
+.SH DESCRIPTION
+.B simple_shell
+is a minimal shell that reads and executes user commands.
+
+.SH OPTIONS
+No options.
+
+.SH COMMANDS
+Supports execution of system commands.
+
+.SH EXAMPLES
+.nf
+$ ./hsh
+$ ls -l
+$ exit
+.fi
+
+.SH AUTHOR
+Holberton School students.

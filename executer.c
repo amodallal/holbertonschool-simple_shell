@@ -5,7 +5,7 @@
  * @args: The command arguments
  * @shell_name: The shell name (for error messages)
  * @envp: Environment variables
- * 
+ *
  * Return: Exit status of the command
  */
 int execute_command(char **args, char *shell_name, char **envp)
