@@ -54,11 +54,6 @@ If hsh is invoked with standard input not connected to a terminal, it reads and 
 	hsh main.c shell.c test_ls_2
 	#cisfun$
 
-### Flowchat
-
-This flowchart shows the elaboration process after a whiteboarding session to understand how the simple shell will work.
-
-![flowchart picture](https://i.ibb.co/k1Gtc4t/flowchart-shell.jpg)
 
 ### Environment
 
