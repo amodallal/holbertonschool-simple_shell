@@ -71,8 +71,8 @@ This flowchart shows the elaboration process after a whiteboarding session to un
 
 This program was created by:
 
-> * Sebastian Lopez
-> * Rodrigo Duque
+> * Ahmad El Modallal
+
 
 ### License
 
