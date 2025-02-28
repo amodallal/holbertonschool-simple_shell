@@ -28,7 +28,7 @@ The purpose of the simple shell project is to understand:
 
 ### Install and Compile
 
-	(your_terminal)$ git clone https://github.com/sebaslopez01/holbertonschool-simple_shell.git
+	(your_terminal)$ git clone https://github.com/amodallal/holbertonschool-simple_shell.git
 	(your_terminal)$ cd holbertonschool-simple_shell
 	(your_terminal)$ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh
 
